@@ -1,0 +1,9 @@
+CONSUMER_KEY        = ''
+CONSUMER_SECRET     = ''
+ACCESS_TOKEN        = ''
+ACCESS_TOKEN_SECRET = ''
+
+DB_HOST  = ''
+DB_USER  = ''
+DB_PASS  = ''
+DATABASE = ''
